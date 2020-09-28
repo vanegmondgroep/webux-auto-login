@@ -4,7 +4,7 @@ WinCC WebUX provides a solution for device- and browser-independent operator con
 
 ## Installation
 
-1. [Download the files from this repository.](https://github.com/vanegmondgroep/webux-auto-login/archive/master.zip).
+1. [Download the files from this repository.](https://github.com/vanegmondgroep/webux-auto-login/archive/master.zip)
 2. Copy `scripts/veg-auto-login.js` to `C:\inetpub\wwwroot\Siemens\WebRH\public\content\` on the WebUX server.
 3. Add the following line to the `head` section of `C:\inetpub\wwwroot\Siemens\WebRH\views\index.jade`:
 
